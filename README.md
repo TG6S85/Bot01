@@ -1,2 +1,4 @@
 # Bot01
-My first attempt at making a discord bot.
+News bot
+
+Discord bot that uses webscraping to fetch 20 most recent news articles and pushes them to the text channel it is located in.
